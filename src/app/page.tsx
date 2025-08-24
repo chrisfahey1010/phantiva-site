@@ -20,9 +20,9 @@ export default function Home() {
               width={512}
               height={512}
               priority
-              className="h-40 w-auto"
+              className="h-30 w-auto"
             />
-            <h1 className="mt-8 text-4xl sm:text-6xl font-semibold tracking-tight">
+            <h1 className="mt-8 text-2xl sm:text-6xl font-semibold tracking-tight">
               Cinematic ads. <span className="text-[var(--color-accent)]">AI speed.</span>
             </h1>
             <p className="mt-5 max-w-2xl text-base sm:text-lg text-[var(--color-muted)]">
