@@ -82,13 +82,11 @@ export default function Home() {
         <ul className="mt-6 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 text-white/80">
           {[
             "Concept & creative direction",
-            "Script, storyboard, shot design",
-            "AI video production (image-to-video, text-to-video, asset gen)",
-            "Editing, motion graphics, compositing",
-            "Color grade, sound design, captions/subtitles",
-            "Social packaging (covers, hooks, hashtags, copy)",
-            "A/B variant creation and performance iteration",
+            "Generative video production",
+            "Editing and motion graphics for product footage",
+            "Search engine optimization for business websites",
             "Consulting for AI-first content workflows",
+            "Website design and development",
           ].map((item) => (
             <li key={item} className="rounded-lg border border-white/10 bg-white/5 p-4">
               {item}
