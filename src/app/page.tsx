@@ -121,19 +121,19 @@ export default function Home() {
           {[
             {
               name: "Starter",
-              includes: "1x 10–15s vertical + 1 cut-down + captions + basic cover",
+              includes: "10–15s vertical + captions + basic cover",
               use: "MVP launch or product teaser",
             },
             {
               name: "Launch",
               includes:
-                "1x 15–30s hero + 2 hooks + 2 cut-downs + captions + covers + copy",
+                "15–30s hero + hooks + captions + covers + ad copy",
               use: "Product launch or campaign kick-off",
             },
             {
               name: "Cinematic",
               includes:
-                "1x 20–30s hero + 4 variants + motion GFX + bespoke grade + sound design",
+                "20–30s hero + motion graphics + bespoke grade + sound design",
               use: "Flagship creative with testing runway",
             },
           ].map((pkg) => (
